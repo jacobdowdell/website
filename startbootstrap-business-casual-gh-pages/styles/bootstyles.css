@@ -1,0 +1,35 @@
+.navigation{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+
+.header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: rgb(236, 44, 236);
+}
+
+.mainbody{
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(rgba(180, 174, 171, 0.65), rgba(47, 23, 15, 0.65)), url("../images/abstact\ white\ background.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .tableaulink {
+      color: goldenrod;
+      font-weight: bold;
+  }
+
+  .story {
+      font-size: 25px;
+  }
+  

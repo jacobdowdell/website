@@ -1,0 +1,20 @@
+.oly{
+    color:green;
+    font-weight: bold;
+}
+
+.instagram {
+    color: red;
+    font-weight: bold;
+}
+
+.resume {
+    color:tomato;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.live {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
